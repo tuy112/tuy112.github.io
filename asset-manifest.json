@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd805cfe.css",
+    "main.js": "/static/js/main.7d499388.js",
+    "static/media/about_man.png": "/static/media/about_man.4b91c213730cb1788d78.png",
+    "static/media/TstoryLogo.png": "/static/media/TstoryLogo.f0e922acf45c9c6cb9a4.png",
+    "index.html": "/index.html",
+    "main.dd805cfe.css.map": "/static/css/main.dd805cfe.css.map",
+    "main.7d499388.js.map": "/static/js/main.7d499388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd805cfe.css",
+    "static/js/main.7d499388.js"
+  ]
+}
