@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ab6e566.css",
+    "main.js": "/static/js/main.b14b959b.js",
+    "static/media/earth.png": "/static/media/earth.a22341aa299d6d34a669.png",
+    "static/media/about_man.png": "/static/media/about_man.4b91c213730cb1788d78.png",
+    "static/media/TstoryLogo.png": "/static/media/TstoryLogo.f0e922acf45c9c6cb9a4.png",
+    "index.html": "/index.html",
+    "main.3ab6e566.css.map": "/static/css/main.3ab6e566.css.map",
+    "main.b14b959b.js.map": "/static/js/main.b14b959b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab6e566.css",
+    "static/js/main.b14b959b.js"
+  ]
+}
