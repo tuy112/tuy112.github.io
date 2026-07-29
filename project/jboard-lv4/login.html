@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>jboard - lv1</title>
+        <link rel="stylesheet" href="./css/reset.css" />
+        <link rel="stylesheet" href="./css/style.css" />
+
+        <!-- Jquery & axios -->
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <script src="http://unpkg.com/axios/dist/axios.min.js"></script>
+    </head>
+    <body>
+        <div class="login">
+            <h1>로그인</h1>
+
+            <form>
+                <label for="username">이메일:</label>
+                <input type="text" id="email" name="email" placeholder="이메일을 입력해주세요!" />
+                <br />
+                <label for="password">비밀번호:</label>
+                <input type="password" id="password" name="password" />
+                <br />
+                <button type="button" class="loginBtn" onclick="login();">로그인</button><br>
+                <button type="button" class="signupBtn" onclick="location.href ='./signup.html'">회원가입</button>
+            </form>
+        </div>
+
+        <!-- script part -->
+        <script src="./js/main.js"></script>
+    </body>
+</html>
